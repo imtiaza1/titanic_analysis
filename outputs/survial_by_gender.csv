@@ -1,0 +1,7 @@
+"Sex","AgeGroup","total","survived","survival_rate"
+"female","Adult",267,201,75.3
+"female","Child",43,28,65.1
+"female","Elderly",4,4,100
+"male","Adult",515,85,16.5
+"male","Child",40,21,52.5
+"male","Elderly",22,3,13.6
